@@ -1,0 +1,6 @@
+{
+  "name": "Monitoring Stok Produksi Kopi",
+  "description": "Aplikasi web pencatatan dan monitoring stok bahan baku biji kopi (Robusta, Arabica, Excelsa), mutasi masuk, keluar produksi, retur penjualan, dan cetak pembukuan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
